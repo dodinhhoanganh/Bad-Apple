@@ -1,0 +1,24 @@
+                 ....,,::iir;77XS228MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                ....,,::ii;;77SS2aZ8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                 ....,,::ii;;rrXXSSaZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                ....,,::::i;;r77XS22Z8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+               . . ..,,:,ii;;;r7XXSaaa8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                  ..,.,,:,ii;;rrXXSSaaZ8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                   ...,,,::ii;;rrXXSS22Z8@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                  . ..,,,,::ii;;rr7XSSaaZZWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                   . ..,.,,::ii;;rr7XXS22ZZ0@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                    . ..,,,:::ii;;rr77XX22ZZZBMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                     . ,.,,,,::ii;;r;77XXSSaaZZBMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                        ,.,.:,::ii;;rr7rXXSSa2aa80@MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          ,S@0       i,  ..,.,,::iiii;;rr77XXS2a2ZZ0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+          MMMM:   :WMM:    .,.:,:,::ii;;r;7r7XSX22aaZZ0WMMMMMMMMMMMMMMMMMMMMMMMMMM
+          MMMM   @MMM     ,..,,:,,,::iiii;;rr77XXSS22aaZZ0BMMMMMMMMMMMMMMMMMMMMMMM
+         ,MMM8 ,MMM2   XMMW  .,.,,,,:::iiiii;;rr77XXSSSS22ZZ80W@MMMMMMMMMMMMMMMMMM
+         ZMMM2SMMM, .@MMM;    ...,,,,::::iiii;i;;rr77XXXXSS2222aZ80W@MMMMMMMMMMMMM
+         MMMMMMMM7:MMM;     :. ...,.,.,,::::::iiii;;r;7r77XXXXSS2S22aaZ80B@@MMMMMM
+  .WMMMWWMMMMMMMMMMMM7XMMMMMWi ......,.,.:,,,::::iiii;i;;rr7777XXXXSXSXSSSS22aaZZW
+  .MMMMMMMMMMMMMMMMMMMM0S;:     . . . ..,.,.,.,,,:::i:iiii;;;;rrrr77X7X7XXXXXXXXXS
+    MMMMMMMMMMMMMMMM               . . . . ....,.,,,,,:::::iiiiii;;;;r;rrrr7r7r7rX
+    SMMMMMMMMMMMMMM:                        . ......,,,,,,,,::::i:i:iiiiii;i;i;;;r
+   7MMMMMMMMMMMMMMr                            . . . ....,.,.,.:,,,,::,::::::::i:i
+8WWMMMMMMMMMMMMMM.                                    . . . ........,.,.,,,,,,:,:,

@@ -1,0 +1,24 @@
+MMMMMM0Z80800WS ,i                    :r                        ;                 
+MMMMMMM@WWWBWWMMM.        .                          .        ,2,                 
+MMMMMMM@Z088800@W                                              W;            .    
+MMMMMM@0000BW000WZ                                                                
+MMMMMMW0W@@M@BBWMM                                                                
+MMMMMM@@M@@B@WBBM.    ,:                                                          
+MMMMMMW@@B0BW@WMMr,ZWM07:.,,                                                     .
+MMMM@B0B@MMMMMMMMMBBSSSra;ri. .                                             .     
+MMMMMM@MMMMMMMMMMMMW00SX7i;i:.                                                    
+MMMMMMMMMMMMMMMMMMMMMMMM@X..;;:                                                   
+MMMMMMMMMMMMMMMMMMMMMMMMMMM; ir     .,                                 .          
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMi:;     7                 .                           
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMX7i :;SX..;:,i.                              ,        
+MMMMMMMMMMMMMMMMMMMMMMMMMMMBX2X2B802rS7,,                         i.   ::       ,,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMZMMB@8ZX:.                  .               7r      rr,
+MMMMMMMMMMMMMMMMMMMMMMMMMMM0M@X;;i                                                
+MMMMMMMMMMMMMMMMMMMMMMMMMMM  .                                                    
+MMMMMMMMMMMMMMMMMMMMMMMMMMMa:.                    .                         ..    
+MMB@MWBMMMMMMMMMMMMMMMMMMMMX                                              :0MX    
+808WMMMMMMMMMMMMMMMMMMMMM:i;                                                      
+ZB8MMMMMMMMMMMMMMMMMMMMM0  :i                                                     
+Z0@MMMMMMMMMMMMMMMMMMMMMMZ :;;                                                    
+8MMMMMMMMMMMMMMMMMMMMMMMMM ,ir,.                                                  
+@MMMMMMMMMMMMMMMMMMMMMMMMM@;i;X.                                                  

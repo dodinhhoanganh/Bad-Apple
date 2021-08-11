@@ -1,0 +1,24 @@
+ .                                                                             . .
+..                       B;                             r0                    . . 
+ .                      iMM                             MM:                    .  
+. . .                  ,MMMB                           WMMM.                     :
+ . ...                 MMMMM0                         WMMMMM                     M
+  .                    0MMMMX                         XMMMM8                    MM
+ .                      BMMM                           MMM0                  .   M
+.                       MMMMMMB;                   ;WMMMMM@                   .   
+                      :MMMMMMMMMMa               ZMMMMMMMMMM,                     
+   .                 iMMMMMMMMMMMMM0          .0MMMMMMMMMMMMM:                    
+   ,.                MMMMMMMMMMMMMMMMW,     ,WMMMMMMMMMMMMMMMM                    
+;X2X@2              MMMMMMMMMMMMMMMMMMMB. ,WMMMMMMMMMMMMMMMMMMM                   
+MMMMMM8  .          MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                 :i
+MMMMMMMMaW@ SS      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                rMM
+MMMMMMMMMMMMMX      aMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMS              . SMM
+MMMMMMMMMM07        WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMB             .  ;MM
+MMMMMMMMS           0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ                :MM
+MMMMMMMMMM@a     ,;aMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMa;,              MM
+MMMMMMMMMMMM0 rMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMr        .   M
+MMMMMMMMMMMMMZMM; 78MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM87 7MM0i          M
+MMMMMMMMMMMMMMM  ;   XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM2   .  XMM2          
+MMMMMMMMMMMMMMMr8MMM0SMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZWWMMB   ;           
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMBX           .
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.          

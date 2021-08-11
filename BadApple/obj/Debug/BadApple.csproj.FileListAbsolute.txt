@@ -1,0 +1,10 @@
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\bin\Debug\BadApple.exe.config
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\bin\Debug\BadApple.exe
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\bin\Debug\BadApple.pdb
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\obj\Debug\BadApple.csprojAssemblyReference.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\obj\Debug\BadApple.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\obj\Debug\BadApple.exe
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\obj\Debug\BadApple.pdb
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\bin\Debug\NAudio.dll
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\bin\Debug\NAudio.xml
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\BadApple\BadApple\obj\Debug\BadApple.csproj.CopyComplete
